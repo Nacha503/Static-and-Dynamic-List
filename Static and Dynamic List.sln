@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static  List", "Static  List\Static  List.csproj", "{88FA0126-4A5F-4D17-829C-D3E187899809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic List", "Dynamic List\Dynamic List.csproj", "{A7F02BA7-56D3-440A-9562-189FF63E17B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FA0126-4A5F-4D17-829C-D3E187899809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FA0126-4A5F-4D17-829C-D3E187899809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FA0126-4A5F-4D17-829C-D3E187899809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FA0126-4A5F-4D17-829C-D3E187899809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F02BA7-56D3-440A-9562-189FF63E17B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F02BA7-56D3-440A-9562-189FF63E17B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F02BA7-56D3-440A-9562-189FF63E17B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F02BA7-56D3-440A-9562-189FF63E17B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E0B195-FB95-47C8-9328-CE3C6B8F1133}
+	EndGlobalSection
+EndGlobal
