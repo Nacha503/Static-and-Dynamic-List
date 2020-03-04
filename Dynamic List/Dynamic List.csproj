@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clase_Principal.cs" />
     <Compile Include="Dynamic List Class.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

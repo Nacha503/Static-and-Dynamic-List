@@ -11,9 +11,13 @@ namespace Static__List
     {
         static void Main(string[] args)
         {
-            Dynamic_List_Class<string> shoppingList = new Dynamic_List_Class<string>();
+            var miListaEstatica = new Dynamic_List_Class<string>();
 
-            Static_List_Class<string> shoppingList2 = new Static_List_Class<string>();
+            miListaEstatica.Add("Dos");
+
+            Console.WriteLine(miListaEstatica[0]);
+
+            Console.ReadKey();
 
 
 
